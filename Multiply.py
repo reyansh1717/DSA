@@ -1,5 +1,6 @@
 def multiply(a, b):
     return a * b
+    
 # Example usage
 num1 = 5
 num2 = 3
